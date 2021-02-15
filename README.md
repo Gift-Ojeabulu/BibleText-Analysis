@@ -13,7 +13,7 @@ This Python Projects is created with Streamlit and hosted on Heroku check the si
 ## Get Started
 
 - Download [Python 3](https://python.org/downloads)
-- Pip instaall streamlit
+- Pip install streamlit
 
 ## Usage
 
