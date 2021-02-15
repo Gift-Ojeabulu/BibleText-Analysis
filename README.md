@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This Python Projects is created with django and hosted on Heroku check the site for demo <http://bibleapplication.herokuapp.com/>
+This Python Projects is created with Streamlit and hosted on Heroku check the site for demo <http://bibleapplication.herokuapp.com/>
 
 ## Get Started
 
