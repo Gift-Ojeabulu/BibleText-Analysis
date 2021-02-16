@@ -8,8 +8,7 @@
 
 ## Introduction
 
-This Python Projects is created with Streamlit and hosted on Heroku check the site for demo <http://bibleapplication.herokuapp.com/>
-
+This Python Projects is created with Streamlit and hosted on Heroku 
 ## Get Started
 
 - Download [Python 3](https://python.org/downloads)
