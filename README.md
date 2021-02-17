@@ -111,36 +111,16 @@ Streamlit is A python framework for buiding data apllication.
     menu = ["Home", "MultiVerse", "About"]
 
     df = load_bible("data/KJV_Bible.csv")
-```
-
-   
-   
-    
-    
-    
-    
-2. Run the demo:
+      ```
+     
+   2.  Run the demo:
     ```bash
     streamlit run app.py
     ```
-3. View the Streamlit app in your browser: `http://localhost:8501`
+3.  View the Streamlit app in your browser: `http://localhost:8501`
 
 
 
 
 
 
-
-```python
-# A function to read our dataset-An Headstart
-@st.cache
-def load_bible(data):
-    df = pd.read_csv(data)
-    return df
-    
-    def main():
-    stc.html(HTML_BANNER)
-    menu = ["Home", "MultiVerse", "About"]
-
-    df = load_bible("data/KJV_Bible.csv")
-```
