@@ -111,9 +111,8 @@ Streamlit is A python framework for buiding data apllication.
     menu = ["Home", "MultiVerse", "About"]
 
     df = load_bible("data/KJV_Bible.csv")
-      ```
-     
-   2.  Run the demo:
+      ```    
+2.  Run the demo:
     ```bash
     streamlit run app.py
     ```
