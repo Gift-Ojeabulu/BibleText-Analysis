@@ -7,6 +7,9 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gift-ojeabulu/streamlit-bible-app/main/app.py)
+
+
 
 
 
