@@ -43,15 +43,14 @@ I built a bible app with streamlit deployed on heroku that has features like par
 
 ## ✅ Features
 1. Single Verse Search -
-2. Multiverse Verse Search
+2. Multiverse Verse Search - Multiple Bible Verses at a time
 3. Random Verse of the day
 4. Term/Topic in the bible
 5. Part Of Speech tag- Detect whether it is a Noun, Verb, Adjective, etc
-indicated with different color
-6. Where color Green is a Noun, Blue is a verb, etc
-7. Main keyword in bible verse
-8. Part Of Speech Tag Plot - Plots for the Part of Speech(Histogram).
-9. Word Frequency Plot- Number of words in that verse(Histogram).
+indicated with different color, Where color Green is a Noun, Blue is a verb, etc
+6. Main keyword in bible verse
+7. Part Of Speech Tag Plot - Plots for the Part of Speech(Histogram).
+8. Word Frequency Plot- Number of words in that verse(Histogram).
 
 
 ## 🙋‍♀️ Authors
