@@ -1,6 +1,6 @@
-# NLP BIBLE ANALYSIS APP
 
-[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+
+  
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Nlp-Bible%20App&fontSize=90)
 
@@ -9,7 +9,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gift-ojeabulu/streamlit-bible-app/main/app.py)
 
-
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/
 
 
 
