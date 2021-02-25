@@ -3,6 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Nlp-Bible%20App&fontSize=90)
 
+
+[Link to the featured project on Stramlit.io weekly app](https://discuss.streamlit.io/t/weekly-roundup-webrtc-components-streamlit-tricks-course-recommenders-and-more/9924)
+[Link to post on LinkedIN](https://www.linkedin.com/posts/gift-ojabu_webappdevelopment-pythonprogramming-streamlit-activity-6764841612100046849-0Ok3)
+
   
 
 
