@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Nlp-Bible%20App&fontSize=90)
 
 
-* [FEATURED PROJECT ON STREAMLIT.IO WEEKLY APP:This   Project was featured by Streamlit in the Nlp and Language Section as "BibleApp"](https://discuss.streamlit.io/t/weekly-roundup-webrtc-components-streamlit-tricks-course-recommenders-and-more/9924) 
+* [FEATURED PROJECT ON STREAMLIT.IO](https://www.linkedin.com/posts/gift-ojabu_streamlit-nlp-machinelearningsolutions-activity-6769922510034083840-zHUL) 
 * [POST & USECASE VIDEO ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_webappdevelopment-pythonprogramming-streamlit-activity-6764841612100046849-0Ok3)
 
   
