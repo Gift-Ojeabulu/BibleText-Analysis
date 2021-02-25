@@ -5,7 +5,7 @@
 
 
 * [Link to the featured project on Streamlit.io weekly app](https://discuss.streamlit.io/t/weekly-roundup-webrtc-components-streamlit-tricks-course-recommenders-and-more/9924): This Project was featured by Streamlit in the Nlp and Language Section as "BibleApp"
-* [Link to post on LinkedIN](https://www.linkedin.com/posts/gift-ojabu_webappdevelopment-pythonprogramming-streamlit-activity-6764841612100046849-0Ok3)
+* [Link to post & Usecase Video on LinkedIN](https://www.linkedin.com/posts/gift-ojabu_webappdevelopment-pythonprogramming-streamlit-activity-6764841612100046849-0Ok3)
 
   
 
