@@ -67,12 +67,7 @@ indicated with different color, Where color Green is a Noun, Blue is a verb, etc
 
 
 # What I Learned
-<ul>
-    <li> Using react and fetch calls to dynamically update UI.</li>
-    <li> Reinforced knowledge of API integration. </li>
-    <li> Leaflet.js / Chart.js libraries were used to create the interactive map and  
-    responsive line graph components </li>
-    <li> CSS and Material-UI libraries were used to design animations and web layout. </li>
+<ul> 
 </ul>
 
 
