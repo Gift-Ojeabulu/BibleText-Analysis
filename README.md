@@ -55,16 +55,6 @@ indicated with different color, Where color Green is a Noun, Blue is a verb, etc
 8. Word Frequency Plot- Number of words in that verse(Histogram).
 
 
-## 🙋‍♀️ Authors
-
-<p align='center'>
-<a href="mailto:giftoscart@gmail.com">
-  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/posts/gift-ojabu_webappdevelopment-pythonprogramming-streamlit-activity-6764841612100046849-0Ok3">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-
 
 # What I Learned
 <ul> 
