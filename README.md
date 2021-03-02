@@ -7,6 +7,8 @@
 * [FEATURED PROJECT ON STREAMLIT](https://www.linkedin.com/posts/gift-ojabu_streamlit-nlp-machinelearningsolutions-activity-6769922510034083840-zHUL) 
 * [POST & USECASE VIDEO ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_webappdevelopment-pythonprogramming-streamlit-activity-6764841612100046849-0Ok3)
 
+![](https://github.com/Gift-Ojeabulu/streamlit-bible-app/blob/main/NlpBibleApp_B%26W.gif)
+
   
 
 
