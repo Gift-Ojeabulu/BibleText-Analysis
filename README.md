@@ -4,7 +4,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gift-ojeabulu/streamlit-bible-app/main/app.py)
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Nlp-Bible%20App&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=BibleApp%20Analysis&fontSize=90)
 
 
 * [FEATURED PROJECT ON STREAMLIT WEEKLY DISCUSSION](https://www.linkedin.com/posts/gift-ojabu_streamlit-nlp-machinelearningsolutions-activity-6769922510034083840-zHUL) 
