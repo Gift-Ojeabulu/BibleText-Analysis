@@ -9,7 +9,8 @@
 
 * [FEATURED PROJECT ON STREAMLIT WEEKLY DISCUSSION](https://www.linkedin.com/posts/gift-ojabu_streamlit-nlp-machinelearningsolutions-activity-6769922510034083840-zHUL) 
 * [PROJECT ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_webappdevelopment-pythonprogramming-streamlit-activity-6764841612100046849-0Ok3)
-* [LIVE WEB APPLICATION](https://share.streamlit.io/gift-ojeabulu/streamlit-bible-app/main/app.py)
+* [LIVE WEB APP ON STREAMLIT-SHARE](https://share.streamlit.io/gift-ojeabulu/streamlit-bible-app/main/app.py)
+* [LIVE WEB APP ON HEROKU](https://bibleapp-analysis.herokuapp.com/)
 
 ![](https://github.com/Gift-Ojeabulu/streamlit-bible-app/blob/main/NlpBibleApp_B%26W.gif)
 
