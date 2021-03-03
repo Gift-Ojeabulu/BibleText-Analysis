@@ -22,7 +22,7 @@
 
 
 ## ✅ Goal
-To build a bible app with streamlit that has features like part of speech bible text tag, counts of word and graphs of word count.
+To build a bible app with that has features like part of speech bible text tag,Keywords, counts of word and graphs of word count.
 
 
 ## Introduction
