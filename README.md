@@ -22,49 +22,7 @@
 
 
 ## ✅ Goal
-I built a bible app with streamlit deployed on heroku that has features like part of speech bible text tag, counts of word and graphs of word count.
-
-
-## ✅ Tech stack!
-    * Python
-    * Heroku
-    * altair
-    * textblob
-    * pandas
-    * matplotlib
-    * streamlit
-    * neattext
-    * spacy
-    
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
-
-
-
-## ✅ MOTIVATION
-
-
-## ✅ What does it do? 
-
-## ✅ Features
-1. Single Verse Search -
-2. Multiverse Verse Search - Multiple Bible Verses at a time
-3. Random Verse of the day
-4. Term/Topic in the bible
-5. Part Of Speech tag- Detect whether it is a Noun, Verb, Adjective, etc
-indicated with different color, Where color Green is a Noun, Blue is a verb, etc
-6. Main keyword in bible verse
-7. Part Of Speech Tag Plot - Plots for the Part of Speech(Histogram).
-8. Word Frequency Plot- Number of words in that verse(Histogram).
-
-
-
-# What I Learned
-<ul> 
-</ul>
-
-
+To build a bible app with streamlit that has features like part of speech bible text tag, counts of word and graphs of word count.
 
 
 ## Introduction
@@ -112,6 +70,46 @@ Streamlit is A python framework for buiding data apllication.
 3.  View the Streamlit app in your browser: `http://localhost:8501`
 
 
+
+
+
+
+
+
+
+## ✅ Tech stack!
+    * Python
+    * Heroku
+    * altair
+    * textblob
+    * pandas
+    * matplotlib
+    * streamlit
+    * neattext
+    * spacy
+    
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
+
+
+
+## ✅ Features
+1. Single Verse Search -
+2. Multiverse Verse Search - Multiple Bible Verses at a time
+3. Random Verse of the day
+4. Term/Topic in the bible
+5. Part Of Speech tag- Detect whether it is a Noun, Verb, Adjective, etc
+indicated with different color, Where color Green is a Noun, Blue is a verb, etc
+6. Main keyword in bible verse
+7. Part Of Speech Tag Plot - Plots for the Part of Speech(Histogram).
+8. Word Frequency Plot- Number of words in that verse(Histogram).
+
+
+
+# What I Learned
+<ul> 
+</ul>
 
 
 
