@@ -12,9 +12,9 @@
 * [LIVE WEB APP ON STREAMLIT-SHARE](https://share.streamlit.io/gift-ojeabulu/streamlit-bible-app/main/app.py)
 * [LIVE WEB APP ON HEROKU](https://bibleapp-analysis.herokuapp.com/)
 
-![](https://github.com/Gift-Ojeabulu/streamlit-bible-app/blob/main/NlpBibleApp_B%26W.gif)
 
-![Example of live coding an app in Streamlit|635x380](https://github.com/Gift-Ojeabulu/streamlit-bible-app/blob/main/NlpBibleApp_B%26W.gif)
+
+<img src="https://github.com/Gift-Ojeabulu/streamlit-bible-app/blob/main/NlpBibleApp_B%26W.gif" width="760" height="400"/>
 
   
 
