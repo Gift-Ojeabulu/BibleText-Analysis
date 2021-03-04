@@ -14,6 +14,8 @@
 
 ![](https://github.com/Gift-Ojeabulu/streamlit-bible-app/blob/main/NlpBibleApp_B%26W.gif)
 
+![Example of live coding an app in Streamlit|635x380](https://github.com/Gift-Ojeabulu/streamlit-bible-app/blob/main/NlpBibleApp_B%26W.gif)
+
   
 
 
