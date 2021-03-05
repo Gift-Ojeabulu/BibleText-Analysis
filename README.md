@@ -24,7 +24,7 @@
 
 
 ## ✅ Goal
-To build a bible app with that has features like part of speech bible text tag,Keywords, counts of word and graphs of word count.
+To build a bible app with that has features like part of speech bible text tag,Keywords, counts of word and graphs of word count.A useful Application of Machine Learning to the Religious Organization Industry
 
 
 ## Introduction
