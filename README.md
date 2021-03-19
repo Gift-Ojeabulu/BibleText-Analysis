@@ -13,8 +13,7 @@
 * [LIVE WEB APP ON HEROKU](https://bibleapp-analysis.herokuapp.com/)
 
 
-
-<img src="https://github.com/Gift-Ojeabulu/streamlit-bible-app/blob/main/NlpBibleApp_B%26W.gif" width="760" height="400"/>
+![](https://github.com/Gift-Ojeabulu/streamlit-bible-app/blob/main/NlpBibleApp_B%26W.gif)
 
   
 
