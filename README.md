@@ -7,6 +7,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Bible-Text%20Analysis&fontSize=90)
 
 
+
+## ✅ Goal
 * [FEATURED PROJECT ON STREAMLIT WEEKLY DISCUSSION](https://www.linkedin.com/posts/gift-ojabu_streamlit-nlp-machinelearningsolutions-activity-6769922510034083840-zHUL) 
 * [PROJECT ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_webappdevelopment-pythonprogramming-streamlit-activity-6764841612100046849-0Ok3)
 * [LIVE WEB APP ON STREAMLIT-SHARE](https://share.streamlit.io/gift-ojeabulu/streamlit-bible-app/main/app.py)
