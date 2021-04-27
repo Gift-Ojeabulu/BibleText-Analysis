@@ -1,8 +1,8 @@
-# Core Pkgs
+
 import streamlit as st
 import streamlit.components.v1 as stc
 
-# EDA Pkgs
+
 import pandas as pd
 import neattext.functions as nfx
 import random
