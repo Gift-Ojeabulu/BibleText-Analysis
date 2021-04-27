@@ -14,7 +14,7 @@ import matplotlib
 matplotlib.use("Agg")
 import altair as alt
 
-# Utils
+
 @st.cache
 def load_bible(data):
     df = pd.read_csv(data)
