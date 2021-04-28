@@ -8,7 +8,7 @@ import neattext.functions as nfx
 import random
 
 
-# Data Viz Pkgs
+
 import matplotlib
 
 matplotlib.use("Agg")
@@ -68,14 +68,13 @@ def main():
                 st.warning("Book out of Range")
 
         with c2:
-            # st.success("Verse of the Day")
             chapter_list = range(10)
             verse_list = range(20)
             ch_choice = random.choice(chapter_list)
             vs_choice = random.choice(verse_list)
             random_book_name = random.choice(book_list)
 
-            # st.write("Book:{},Ch:{},Vs:{}".format(random_book_name,ch_choice,vs_choice))
+            
             rand_bible_df = df[df["book"] == random_book_name]
 
             try:
