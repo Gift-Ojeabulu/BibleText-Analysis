@@ -151,8 +151,8 @@ def main():
     else:
         st.subheader("About")
         st.text("Build with Streamlit")
-        st.text("Gift Ojeabulu")
-        st.success("Jesus Christ thee same yesterday today and forevermore")
+        st.text("By Gift Ojeabulu")
+        st.success("Be strong and courageous. Do not be afraid or terrified because of them, or the LORD your God goes with you; he will never leave you nor forsake you.")
 
 
 if __name__ == "__main__":
