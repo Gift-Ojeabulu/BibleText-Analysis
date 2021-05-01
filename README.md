@@ -15,7 +15,7 @@
 * [LIVE WEB APP ON HEROKU](https://bibleapp-analysis.herokuapp.com/)
 
 
-![](https://github.com/Gift-Ojeabulu/streamlit-bible-app/blob/main/NlpBibleApp_B%26W.gif)
+![](https://github.com/Gift-Ojeabulu/BibleText-Analysis/blob/main/1st_Bibleapp.gif)
 
   
 
