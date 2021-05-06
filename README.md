@@ -19,7 +19,7 @@
 
 
 ## ✅  Demo video 2
-![](https://github.com/Gift-Ojeabulu/BibleText-Analysis/commit/30c96dcd091f5d096a0ca6d5f2869d71bf33c112)
+![](https://github.com/Gift-Ojeabulu/BibleText-Analysis/blob/main/app%20%C2%B7%20Streamlit12.gif)
 
 
 
