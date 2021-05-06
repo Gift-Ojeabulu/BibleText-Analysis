@@ -14,8 +14,14 @@
 * [LIVE WEB APP ON STREAMLIT-SHARE](https://share.streamlit.io/gift-ojeabulu/streamlit-bible-app/main/app.py)
 * [LIVE WEB APP ON HEROKU](https://bibleapp-analysis.herokuapp.com/)
 
-## ✅  Demo video
+## ✅  Demo video 1
 ![](https://github.com/Gift-Ojeabulu/BibleText-Analysis/blob/main/1st_Bibleapp.gif)
+
+
+## ✅  Demo video 2
+![](https://github.com/Gift-Ojeabulu/BibleText-Analysis/commit/30c96dcd091f5d096a0ca6d5f2869d71bf33c112)
+
+
 
   
 
