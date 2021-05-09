@@ -60,7 +60,7 @@ Streamlit is A python framework for buiding data apllication.
     ```bash
     pip install requirements.txt
     ```python
-    # A function to read our dataset-An Headstart
+    # A function to load our dataset-An Headstart
    @st.cache
    def load_bible(data):
       df = pd.read_csv(data)
