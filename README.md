@@ -7,6 +7,37 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Bible-Text%20Analysis&fontSize=90)
 
 ## ✅ MOTIVATION
+I was in church with the traditional Bible and a thought was going through my mind ,since it is said that Machine learning can be applied everywhere. 
+
+Is it true ?
+
+If yes ,how can I apply Machine learning to the bible. 
+
+Then it strucked my mind, my other thought was like Natural language processing that was how the inspiration came. 
+
+Then I move to the bible app on my phone scrolling through and I'm like since my aim is to integrate software development with machine learning 
+
+Is there a way I can use machine learning to answer this questions 
+
+1. Detecting the Part of Speech for each word in the bible. 
+
+1a. Then if I can detect with nlp ,I should be able to plot with Python visualisation tool like seaborn, matplotlib.
+
+2. Getting the Keyword of each verses automatically without reading ,this can give a concise summary of what each chapter is about without reading.
+
+3. Can I search for topical words in the bible ?
+
+To just get verses and chapters to prepare a message right there instead of going to Google.
+
+E.g Verses associated with Faith, Grace , Giving and so on. 
+
+This can help prepare sermon faster without doing much research maybe as a pastor or preacher . 
+
+In the Future, Further improvement can be done by creating this as a Mobile App and adding more features.
+
+We can even publish to Playstore for downloads because this hasn't been seen or done in any bible Application. 
+
+
 
 ## ✅ Links
 * [FEATURED PROJECT ON STREAMLIT WEEKLY DISCUSSION](https://www.linkedin.com/posts/gift-ojabu_streamlit-nlp-machinelearningsolutions-activity-6769922510034083840-zHUL) 
