@@ -144,13 +144,3 @@ indicated with different color, Where color Green is a Noun, Blue is a verb, etc
 6. Main keyword in bible verse
 7. Part Of Speech Tag Plot - Plots for the Part of Speech(Histogram).
 8. Word Frequency Plot- Number of words in that verse(Histogram).
-
-
-
-# What I Learned
-<ul> 
-</ul>
-
-
-
-
