@@ -18,9 +18,9 @@ Is it true ?
 
 If yes ,how can I apply Machine learning to the bible. 
 
-Then it strucked my mind, my other thought was like Natural language processing should be able to come in since - text analytics to be pricise,that was how the inspiration came. 
+Then it strucked my mind, my other thought was like Natural language processing should be able to come in  - text analytics to be pricise,that was how the inspiration came. 
 
-Then I move to the bible app on my phone scrolling through and I'm like since my aim is to integrate software development with machine learning 
+Then I move to the bible app on my phone scrolling through and I was like How can apply Machine Learning with this Bible App, This strucked me to build a machine learning Bible Web App.
 
 Is there a way I can use machine learning to answer this questions?
 
