@@ -22,13 +22,13 @@ Then it strucked my mind, my other thought was like Natural language processing 
 
 Then I move to the bible app on my phone scrolling through and I'm like since my aim is to integrate software development with machine learning 
 
-Is there a way I can use machine learning to answer this questions 
+Is there a way I can use machine learning to answer this questions?
 
-1. Detecting the Part of Speech for each word in the bible, Then if I can detect with nlp ,I should be able to plot with Python visualisation tool like seaborn, matplotlib.
+* Detecting the Part of Speech for each word in the bible, Then if I can detect with nlp ,I should be able to plot with Python visualisation tool like seaborn, matplotlib.
 
-2. Getting the Keyword of each verses automatically without reading ,this can give a concise summary of what each chapter is about without reading.
+* Getting the Keyword of each verses automatically without reading ,this can give a concise summary of what each chapter is about without reading.
 
-3. Can I search for topical words in the bible ?
+* Can I search for topical words in the bible ?
 
 To just get verses and chapters to prepare a message right there instead of going to Google.
 
