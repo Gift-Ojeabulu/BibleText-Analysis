@@ -12,21 +12,19 @@ To build a bible app with that has features like part of speech bible text tag,K
 
 
 ## ✅ MOTIVATION
-I was in church with the traditional Bible and a thought was going through my mind ,since it is said that Machine learning can be applied everywhere. 
+I was in church with the traditional Bible and a thought went through my mind  and the thought was since it's said that Machine learning can be applied everywhere. 
 
 Is it true ?
 
 If yes ,how can I apply Machine learning to the bible. 
 
-Then it strucked my mind, my other thought was like Natural language processing that was how the inspiration came. 
+Then it strucked my mind, my other thought was like Natural language processing should be able to come in since - text analytics to be pricise,that was how the inspiration came. 
 
 Then I move to the bible app on my phone scrolling through and I'm like since my aim is to integrate software development with machine learning 
 
 Is there a way I can use machine learning to answer this questions 
 
-1. Detecting the Part of Speech for each word in the bible. 
-
-1a. Then if I can detect with nlp ,I should be able to plot with Python visualisation tool like seaborn, matplotlib.
+1. Detecting the Part of Speech for each word in the bible, Then if I can detect with nlp ,I should be able to plot with Python visualisation tool like seaborn, matplotlib.
 
 2. Getting the Keyword of each verses automatically without reading ,this can give a concise summary of what each chapter is about without reading.
 
