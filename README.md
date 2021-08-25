@@ -6,6 +6,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Bible-Text%20Analysis&fontSize=90)
 
+## ✅ Goal
+To build a bible app with that has features like part of speech bible text tag,Keywords, counts of word and graphs of word count.A useful Application of Machine Learning to the Religious Organization Industry
+
+
+
 ## ✅ MOTIVATION
 I was in church with the traditional Bible and a thought was going through my mind ,since it is said that Machine learning can be applied everywhere. 
 
@@ -39,10 +44,7 @@ We can even publish to Playstore for downloads because this hasn't been seen or 
 
 
 
-## ✅ Links
-* [FEATURED PROJECT ON STREAMLIT WEEKLY DISCUSSION](https://www.linkedin.com/posts/gift-ojabu_streamlit-nlp-machinelearningsolutions-activity-6769922510034083840-zHUL) 
-* [PROJECT ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_webappdevelopment-pythonprogramming-streamlit-activity-6764841612100046849-0Ok3)
-* [LIVE WEB APP ON HEROKU](https://bibleapp-analysis.herokuapp.com/)
+
 
 ## ✅  Demo video 1
 ![](https://github.com/Gift-Ojeabulu/BibleText-Analysis/blob/main/1st_Bibleapp.gif)
@@ -52,16 +54,16 @@ We can even publish to Playstore for downloads because this hasn't been seen or 
 ![](https://github.com/Gift-Ojeabulu/BibleText-Analysis/blob/main/app%20%C2%B7%20Streamlit12.gif)
 
 
-
+## ✅ Links
+* [FEATURED PROJECT ON STREAMLIT WEEKLY DISCUSSION](https://www.linkedin.com/posts/gift-ojabu_streamlit-nlp-machinelearningsolutions-activity-6769922510034083840-zHUL) 
+* [PROJECT ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_webappdevelopment-pythonprogramming-streamlit-activity-6764841612100046849-0Ok3)
+* [LIVE WEB APP ON HEROKU](https://bibleapp-analysis.herokuapp.com/)
   
 
 
 
 
 
-
-## ✅ Goal
-To build a bible app with that has features like part of speech bible text tag,Keywords, counts of word and graphs of word count.A useful Application of Machine Learning to the Religious Organization Industry
 
 
 ## Introduction
@@ -126,6 +128,15 @@ Streamlit is A python framework for buiding data apllication.
     * streamlit
     * neattext
     * spacy
+    
+   
+    
+## DEPLOYMENT 🚀
+
+#### This website is deployed at [Heroku](https://www.heroku.com/)
+#### You can access it [LIVE WEB APP ON HEROKU](https://bibleapp-analysis.herokuapp.com/)
+#### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
+
     
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
