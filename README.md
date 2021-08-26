@@ -14,7 +14,7 @@ To build a bible app with that has features like part of speech bible text tag,K
 ## ✅ MOTIVATION
 I was in church with the traditional Bible and a thought went through my mind  and the thought was since it's said that Machine learning can be applied everywhere. 
 
-Is it true ?
+Is this statement really true ?
 
 If yes ,how can I apply Machine learning to the bible. 
 
