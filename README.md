@@ -147,14 +147,3 @@ Streamlit is A python framework for buiding data apllication.
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 
 
-
-## ✅ Features
-1. Single Verse Search -
-2. Multiverse Verse Search - Multiple Bible Verses at a time
-3. Random Verse of the day
-4. Term/Topic in the bible
-5. Part Of Speech tag- Detect whether it is a Noun, Verb, Adjective, etc
-indicated with different color, Where color Green is a Noun, Blue is a verb, etc
-6. Main keyword in bible verse
-7. Part Of Speech Tag Plot - Plots for the Part of Speech(Histogram).
-8. Word Frequency Plot- Number of words in that verse(Histogram).
